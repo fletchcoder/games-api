@@ -1,0 +1,28 @@
+{
+	"games": [
+		{
+			"developer": "Sony San Diego",
+			"gameName": "MLB 07 The Show",
+			"genre": "Sports",
+			"id": 1,
+			"platforms": "PlayStation 2, PlayStation 3",
+			"releaseYear": 2007
+		},
+		{
+			"developer": "Square Enix",
+			"gameName": "Kingdom Hearts",
+			"genre": "Action, RPG",
+			"id": 2,
+			"platforms": "PlayStation 2",
+			"releaseYear": 2002
+		},
+		{
+			"developer": "Full Fat",
+			"gameName": "Spore Hero Arena",
+			"genre": "Action-adventure",
+			"id": 3,
+			"platforms": "Nintendo DS",
+			"releaseYear": 2009
+		}
+	]
+}
